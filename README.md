@@ -10,5 +10,6 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 ##  About me
 
 [![Shadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sboomi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sboomi&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Shadi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sboomi)](https://github.com/anuraghazra/github-readme-stats)
+
