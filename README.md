@@ -16,4 +16,5 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 
 ## Currently working on
 
-[![sboomi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sboomi)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
