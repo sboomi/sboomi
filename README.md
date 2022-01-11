@@ -18,7 +18,6 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 39 mins    ████████████████████████▒   97.26 % 
-Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
