@@ -19,12 +19,12 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-Python     6 hrs 47 mins   █████████████████████▓░░░   86.96 %
-TOML       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Bash       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python     7 hrs 59 mins   ██████████████████████░░░   88.64 %
+TOML       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Bash       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
