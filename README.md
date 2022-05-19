@@ -19,10 +19,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-TOML         1 min           █████████████▓░░░░░░░░░░░   54.71 %
-Bash         0 secs          ████████▒░░░░░░░░░░░░░░░░   33.03 %
-TypeScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
