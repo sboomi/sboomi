@@ -19,7 +19,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-JSON       3 mins          █████████████████████████   100.00 %
+Text       0 secs          █████████████████████████   100.00 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
