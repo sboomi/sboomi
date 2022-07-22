@@ -19,8 +19,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-Batchfile   2 mins          ████████████████▓░░░░░░░░   66.12 %
-CMake       1 min           ████████▒░░░░░░░░░░░░░░░░   33.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
