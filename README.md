@@ -19,7 +19,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   13 mins         █████████░░░░░░░░░░░░░░░░   36.28 %
+JavaScript   13 mins         █████████░░░░░░░░░░░░░░░░   36.27 %
 Other        9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
 ```
 
