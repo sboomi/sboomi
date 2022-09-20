@@ -19,9 +19,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-Python       0 secs          ███████████████████▒░░░░░   77.25 %
-TOML         0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
