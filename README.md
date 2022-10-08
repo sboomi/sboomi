@@ -19,7 +19,8 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   9 mins          █████████████████████████   99.74 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
