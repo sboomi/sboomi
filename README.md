@@ -19,7 +19,9 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-Docker   0 secs          █████████████████████████   100.00 %
+TOML         15 mins         ███████████▒░░░░░░░░░░░░░   45.17 %
+Python       9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+Other        3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
 ```
 
 <!--END_SECTION:waka-->
