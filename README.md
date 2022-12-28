@@ -19,9 +19,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-Svelte   20 mins         ████████████████▒░░░░░░░░   64.75 %
-Python   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.86 %
-CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
