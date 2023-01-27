@@ -19,7 +19,9 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-Git Config   0 secs          █████████████████████████   100.00 %
+Python       5 mins          ████████████████████████▒   97.12 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
