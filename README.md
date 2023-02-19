@@ -19,8 +19,10 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-YAML    0 secs          ████████████████▓░░░░░░░░   67.10 %
-Other   0 secs          ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Bash     10 mins         ████████████████████░░░░░   79.86 %
+YAML     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+TOML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
