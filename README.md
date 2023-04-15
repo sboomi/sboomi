@@ -19,7 +19,9 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js       9 mins          ████████████████████████░   95.71 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
