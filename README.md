@@ -18,7 +18,7 @@ Hello! I've taken an interest in data science and I occasionally do web projects
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
