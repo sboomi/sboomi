@@ -2,8 +2,8 @@
 
 Hello! I've taken an interest in data science and I occasionally do web projects.
 
-- 🔭 I’m currently working on Advent of Code 2021
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on various small, personal projects
+- 🌱 I’m currently learning GameDev
 - 📫 How to find me: 
   - ![img](https://www.linkedin.com/favicon.ico) [LinkedIn](https://www.linkedin.com/in/shadiboomi/)
   - ![img](https://www.kaggle.com/static/images/favicon.ico) [Kaggle](https://www.kaggle.com/sboomi)
